@@ -141,6 +141,10 @@ header .menu{
 .list-servicos .item-servico{
     text-align: center;
 }
+.item-servico{
+    padding-left: 10%;
+    padding-right: 10%;
+}
 .item-servico a{
     width: 250px;
     background-color: #fff;
